@@ -1,0 +1,2 @@
+This is the file containing the practical on squash git command.
+This is the second line been added in the squash file.
